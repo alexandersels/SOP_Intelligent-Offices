@@ -5,11 +5,6 @@ public class SOP {
 
     public static void main(String[] args)
     {
-        System.out.println("Hallo SOP!");
-    }
-
-    public int getNumber()
-    {
-        return 20;
+        System.out.println("Hallo SOP! Test eerste commit");
     }
 }
